@@ -1,6 +1,9 @@
 import '@/app/ui/global.css';
 import { inter, lusitana } from '@/app/ui/fonts';
 
+export const experimental_ppr = true;
+
+
 export default function RootLayout({
   children,
 }: {
